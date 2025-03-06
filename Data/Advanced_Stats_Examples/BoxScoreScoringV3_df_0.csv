@@ -1,0 +1,25 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,percentageFieldGoalsAttempted2pt,percentageFieldGoalsAttempted3pt,percentagePoints2pt,percentagePointsMidrange2pt,percentagePoints3pt,percentagePointsFastBreak,percentagePointsFreeThrow,percentagePointsOffTurnovers,percentagePointsPaint,percentageAssisted2pt,percentageUnassisted2pt,percentageAssisted3pt,percentageUnassisted3pt,percentageAssistedFGM,percentageUnassistedFGM
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1631212,Peyton,Watson,P. Watson,peyton-watson,F,,,25:45,0.8,0.2,1.0,0.0,0.0,0.5,0.0,0.0,1.0,0.5,0.5,0.0,0.0,0.5,0.5
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1629008,Michael,Porter Jr.,M. Porter Jr.,michael-porter-jr,F,,,36:25,0.643,0.357,0.909,0.182,0.0,0.0,0.091,0.182,0.727,0.8,0.2,0.0,0.0,0.8,0.2
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,203999,Nikola,Jokić,N. Jokić,nikola-jokić,C,,,38:39,0.846,0.154,0.679,0.107,0.161,0.071,0.161,0.179,0.571,0.789,0.211,0.333,0.667,0.727,0.273
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1631128,Christian,Braun,C. Braun,christian-braun,G,,,37:40,0.786,0.214,1.0,0.0,0.0,0.143,0.0,0.143,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,201566,Russell,Westbrook,R. Westbrook,russell-westbrook,G,,,32:08,0.667,0.333,0.857,0.0,0.0,0.286,0.143,0.429,0.857,0.667,0.333,0.0,0.0,0.667,0.333
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1631124,Julian,Strawther,J. Strawther,julian-strawther,,,,32:47,0.615,0.385,0.556,0.0,0.333,0.111,0.111,0.0,0.556,0.4,0.6,1.0,0.0,0.571,0.429
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1629618,Jalen,Pickett,J. Pickett,jalen-pickett,,,,15:45,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1641816,Hunter,Tyson,H. Tyson,hunter-tyson,,,,11:34,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,201599,DeAndre,Jordan,D. Jordan,deandre-jordan,,,,9:18,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1641725,Trey,Alexander,T. Alexander,trey-alexander,,DNP - Coach's Decision,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1641790,PJ,Hall,P. Hall,pj-hall,,DNP - Coach's Decision,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,1630192,Zeke,Nnaji,Z. Nnaji,zeke-nnaji,,DNP - Coach's Decision,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1641731,Bilal,Coulibaly,B. Coulibaly,bilal-coulibaly,F,,,40:20,0.667,0.333,0.667,0.0,0.0,0.667,0.333,0.0,0.667,0.5,0.5,0.0,0.0,0.5,0.5
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1630551,Justin,Champagnie,J. Champagnie,justin-champagnie,F,,,36:50,0.692,0.308,0.609,0.0,0.261,0.13,0.13,0.13,0.609,0.857,0.143,1.0,0.0,0.889,0.111
+0022400341,1610612764,Washington,Wizards,WAS,wizards,202685,Jonas,Valančiūnas,J. Valančiūnas,jonas-valančiūnas,C,,,31:48,0.933,0.067,0.8,0.3,0.0,0.0,0.2,0.1,0.5,1.0,0.0,0.0,0.0,1.0,0.0
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1629673,Jordan,Poole,J. Poole,jordan-poole,G,,,40:13,0.231,0.769,0.154,0.0,0.692,0.128,0.154,0.179,0.154,0.333,0.667,0.556,0.444,0.5,0.5
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1642267,Bub,Carrington,B. Carrington,bub-carrington,G,,,34:08,0.385,0.615,0.4,0.0,0.6,0.0,0.0,0.0,0.4,0.5,0.5,1.0,0.0,0.75,0.25
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1630215,Jared,Butler,J. Butler,jared-butler,,,,17:02,0.556,0.444,0.5,0.0,0.5,0.0,0.0,0.0,0.5,0.0,1.0,1.0,0.0,0.4,0.6
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1630264,Anthony,Gill,A. Gill,anthony-gill,,,,10:38,1.0,0.0,0.8,0.0,0.0,0.2,0.2,0.0,0.8,0.5,0.5,0.0,0.0,0.5,0.5
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1628963,Marvin,Bagley III,M. Bagley III,marvin-bagley-iii,,,,15:52,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1631098,Johnny,Davis,J. Davis,johnny-davis,,,,13:11,0.75,0.25,0.571,0.0,0.429,0.571,0.0,0.571,0.571,0.5,0.5,1.0,0.0,0.667,0.333
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1627763,Malcolm,Brogdon,M. Brogdon,malcolm-brogdon,,DND - Injury/Illness,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1626158,Richaun,Holmes,R. Holmes,richaun-holmes,,DNP - Coach's Decision,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0022400341,1610612764,Washington,Wizards,WAS,wizards,1630557,Corey,Kispert,C. Kispert,corey-kispert,,DND - Injury/Illness,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

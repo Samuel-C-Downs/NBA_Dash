@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,usagePercentage,percentageFieldGoalsMade,percentageFieldGoalsAttempted,percentageThreePointersMade,percentageThreePointersAttempted,percentageFreeThrowsMade,percentageFreeThrowsAttempted,percentageReboundsOffensive,percentageReboundsDefensive,percentageReboundsTotal,percentageAssists,percentageTurnovers,percentageSteals,percentageBlocks,percentageBlocksAllowed,percentagePersonalFouls,percentagePersonalFoulsDrawn,percentagePoints
+0022400341,1610612764,Washington,Wizards,WAS,wizards,240:00,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+0022400341,1610612743,Denver,Nuggets,DEN,nuggets,240:00,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
